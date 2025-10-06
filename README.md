@@ -13,8 +13,8 @@
 
 # Built With
 - HTML
--CSS
--JavaScript
+- CSS
+- JavaScript
 
 # Author
--Aksa Ansari
+- Aksa Ansari
